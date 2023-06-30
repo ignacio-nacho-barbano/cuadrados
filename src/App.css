@@ -1,0 +1,8 @@
+.contenedor {
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  display: flex;
+  gap: 32px;
+  flex-wrap: nowrap;
+}
